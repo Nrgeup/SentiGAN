@@ -8,8 +8,6 @@ This is the main code of the paper "[SentiGAN: Generating Sentimental Texts via 
 > * Python 3.5
 > * Anaconda3
 
-Code coming soon!
-
 ## Reference
 > * Ke Wang and Xiaojun Wan. SentiGAN: Generating Sentimental Texts via Mixture Adversarial Networks. In IJCAI 2018.
 
