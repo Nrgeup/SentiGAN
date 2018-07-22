@@ -260,7 +260,6 @@ class Generator(object):
 
                 samples = np.concatenate((fix_samples, mc_samples), axis=1)
                 # print(samples[0])
-                # input("mmp,gun!!!!!")
                 # continue
 
                 feed = {discriminator.input_x: samples, discriminator.dropout_keep_prob: 1.0}
